@@ -11,7 +11,7 @@
   <header>
     <div class="container">
       <h1>MSPB Enterprise - Adult Care Shelter</h1>
-      <p>Providing compassionate and professional care for adults in need in Gaborone, Botswana.</p>
+      <p>Providing compassionate and professional care for adults in need in Gaborone, Botswana. Our mission is to create a safe, supportive, and dignified environment where individuals receive high-quality care tailored to their needs. We ensure comfort, well-being, and community integration through dedicated staff and innovative solutions for all we serve.</p>
     </div>
   </header>
 
@@ -19,7 +19,7 @@
   <section class="hero">
     <div class="container">
       <h2>Welcome to MSPB Enterprise</h2>
-      <p>Your trusted partner in providing quality adult care services and support for the elderly.</p>
+      <p>Your trusted partner in providing quality adult care services and support for the elderly. We are committed to delivering compassionate, professional, and personalized care, ensuring every individual's dignity, comfort, and well-being. Our services are designed to enhance the quality of life for seniors through dedicated support, community engagement, and innovative care solutions.</p>
       <a href="#about" class="btn">Learn More</a>
     </div>
   </section>
@@ -28,14 +28,14 @@
   <section id="about" class="about">
     <div class="container">
       <h3>About Us</h3>
-      <p>At MSPB Enterprise, we are dedicated to creating a warm, safe, and caring environment for adults in need of assistance. We offer comprehensive services to ensure the well-being and dignity of each resident.</p>
+      <p>At MSPB Enterprise, we are committed to providing a warm, safe, and compassionate environment for adults in need of assistance. Our comprehensive care services are designed to enhance the well-being, dignity, and quality of life of each individual we serve. With a dedicated team and a holistic approach, we ensure that every resident receives the support they deserve in a nurturing and respectful setting.</p>
       <div class="content">
-        <img src="https://via.placeholder.com/500x300" alt="Adult Care Shelter">
+        <img src="C:\Users\Brandon\Desktop\eldelry people in botswa.webp" alt="Adult Care Shelter">
         <div>
           <h4>Our Mission</h4>
-          <p>To offer compassionate, professional, and personalized care for every resident in our shelter, ensuring they live with dignity, respect, and love.</p>
+          <p>Our mission is to provide compassionate, professional, and personalized care for every resident in our shelter, ensuring they live with dignity, respect, and love. We are dedicated to creating a supportive and nurturing environment where individuals feel valued, safe, and empowered to live their best lives.</p>
           <h4>Our Vision</h4>
-          <p>To become the leading provider of adult care services in Botswana, known for our commitment to quality and compassionate care.</p>
+          <p>Our vision is to become the leading provider of adult care services in Botswana, recognized for our unwavering commitment to quality, compassion, and excellence in care. We strive to set the standard for providing holistic, dignified, and personalized support, ensuring that every individual receives the best care possible.</p>
         </div>
       </div>
     </div>
@@ -49,17 +49,17 @@
         <div class="service-item">
           <img src="https://via.placeholder.com/80" alt="Personal Care">
           <h4>Personal Care</h4>
-          <p>We provide support with daily activities such as bathing, dressing, and eating.</p>
+          <p>We provide comprehensive support with daily activities, including bathing, dressing, eating, and other essential personal care needs. Our goal is to ensure comfort, dignity, and independence for every individual, offering assistance in a respectful and compassionate manner.</p>
         </div>
         <div class="service-item">
-          <img src="https://via.placeholder.com/80" alt="Medical Support">
+          <img src="C:\Users\Brandon\Desktop\images.jpg" alt="Medical Support">
           <h4>Medical Support</h4>
-          <p>Our medical team ensures the health and safety of every resident with regular check-ups and care.</p>
+          <p>Our dedicated medical team ensures the health and safety of every resident through regular check-ups, monitoring, and personalized care. We prioritize proactive health management, providing expert support to maintain well-being and address any medical needs promptly and efficiently.</p>
         </div>
         <div class="service-item">
-          <img src="https://via.placeholder.com/80" alt="Recreational Activities">
+          <img src="C:\Users\Brandon\Desktop\telemedicine.jpg" alt="Recreational Activities">
           <h4>Recreational Activities</h4>
-          <p>We offer activities to keep residents mentally and physically active, promoting their well-being.</p>
+          <p>We offer a variety of activities designed to keep residents mentally and physically active, promoting overall well-being. From engaging exercises to stimulating cognitive activities, our goal is to enhance quality of life and encourage social interaction, ensuring that each resident remains engaged and fulfilled.</p>
         </div>
       </div>
     </div>
@@ -81,7 +81,7 @@
   <!-- Footer -->
   <footer>
     <div class="container">
-      <p>&copy; 2023 MSPB Enterprise - Adult Care Shelter. All rights reserved.</p>
+      <p>&copy; 2025 MSPB Enterprise - Adult Care Shelter. All rights reserved.</p>
     </div>
   </footer>
 </body>
